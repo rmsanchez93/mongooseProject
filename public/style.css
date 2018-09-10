@@ -1,0 +1,24 @@
+body{
+    background-image: url("https://www.publicdomainpictures.net/pictures/200000/velka/tile-pattern-background-black-1473792907Tc3.jpg");
+    color: white;
+}
+
+#notes{
+    justify-content: center;
+}
+
+#articles{
+    background: rgba(173,216,230, 0.5);   
+     color: black;
+     font-weight: 500;
+
+}
+#notes{
+    background: rgba(173,216,230, 0.5);   
+     color: black;
+     font-weight: 500;
+
+}
+.whereNoteGoes{
+    justify-content: center; 
+}
